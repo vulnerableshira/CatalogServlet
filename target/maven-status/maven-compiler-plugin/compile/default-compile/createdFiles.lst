@@ -1,0 +1,5 @@
+com\example\catalog\ProductNotFoundException.class
+com\example\catalog\ProductServlet.class
+com\example\catalog\Product.class
+com\example\catalog\App.class
+com\example\catalog\ProductRepository.class
